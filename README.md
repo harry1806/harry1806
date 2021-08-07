@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harry1806
 - 👀 I’m interested in Data science, Machine learning, Data and business analytics
-- 🌱 I’m currently learning MSc in Data science
+- 🌱 I’m currently learning MSc in Data science from LIverpool John Moore University
 - 💞️ I’m looking to collaborate on people with similar interests
 - 📫 How to reach me hareesha86@gmail.com
 
